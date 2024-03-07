@@ -1,0 +1,4 @@
+Arabic - https://github.com/AhmedMadbouly/ArabicNames/blob/main/ArabicNames/names.csv
+English - https://github.com/dominictarr/random-name/blob/master/first-names.txt
+Japanese - https://github.com/rgamici/japanese-names
+Russian - https://github.com/sorokinpf/russian_names/blob/master/russian_trans_names.csv
